@@ -12,3 +12,7 @@ Functional Requirements
 
 To-do list app screenshot
 ![Screenshot (12)](https://github.com/LwandoMadebe/To-do-list/assets/147529941/d25b0f9b-b2db-465f-80ab-5e954ba96d80)
+![Screenshot (13)](https://github.com/LwandoMadebe/To-do-list/assets/147529941/6e08e909-7a1a-4e00-aab4-04396fe902b5)
+![Screenshot (14)](https://github.com/LwandoMadebe/To-do-list/assets/147529941/e5f654e7-bd6d-4d02-bbea-3cbdca733567)
+![Screenshot (15)](https://github.com/LwandoMadebe/To-do-list/assets/147529941/9236ff03-6bd0-42e4-9a37-0b66120f63d3)
+
