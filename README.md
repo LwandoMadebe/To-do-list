@@ -10,6 +10,9 @@ This To-do list app can be used to help the user to organize and manage their ta
 6. If the user wants to delete a particular task, the user must click on the cross icon and the task will be successfully deleted.
 7. Once the user refresh or restart the app, the tasks will be displayed as they ate.
 
+# UML user case diagrams
+User case are used analyse the software's requirements, there are 3 main components in user case diagrame, the first one is functional requirement which is already mentioned above and they are displayed inside user cases. The second one is actor, in this case we have two actors which is the user and the app, they interact with the system. The last one is relationship which is between actors and user cases, they are represeted by dotted lines with straight arrows. 
+
 # To-do list app screenshot
 ![Screenshot (12)](https://github.com/LwandoMadebe/To-do-list/assets/147529941/d25b0f9b-b2db-465f-80ab-5e954ba96d80)
 ![Screenshot (13)](https://github.com/LwandoMadebe/To-do-list/assets/147529941/6e08e909-7a1a-4e00-aab4-04396fe902b5)
