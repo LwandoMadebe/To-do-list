@@ -8,4 +8,7 @@ Functional Requirements
 4. The user must be able to check or unchecked task by clicking on task they added.
 5. Once the task has been checked or unchecked, the task will be either marked completed or incomplete.
 6. If the user wants to delete a particular task, the user must click on the cross icon and the task will be successfully deleted.
-7. Once the user refresh or restart the app, the will be displayed as it is. 
+7. Once the user refresh or restart the app, the will be displayed as it is.
+
+To-do list app screenshot
+![Screenshot (12)](https://github.com/LwandoMadebe/To-do-list/assets/147529941/d25b0f9b-b2db-465f-80ab-5e954ba96d80)
