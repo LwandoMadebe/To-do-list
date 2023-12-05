@@ -1,6 +1,11 @@
 # To-do-list
 This To-do list app can be used to help the user to organize and manage their tasks on a daily basis.
 
+##### Before we continue, check the demo below
+###### Copy the link and open it on a new tab
+https://to-list-app-seven.vercel.app/
+
+
 # Functional Requirements 
 1. The user needs to add their text.
 2. The user must be able to click the add button.
